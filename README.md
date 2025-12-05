@@ -3,4 +3,4 @@
 ### The easiest way for South Africans to sell online.
 We setup payments, deliveries, and your online store for you so you can focus on running your business.
 
-https://puddle.co.za
+<a target="_blank" href="https://puddle.co.za">https://puddle.co.za</a>
